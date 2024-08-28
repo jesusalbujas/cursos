@@ -5,7 +5,7 @@ public class Solution {
 		int a = 3;
 		int b = 2;
         
-		System.out.print(b);
+	System.out.print(b);
         System.out.print(" más ");
         System.out.print(a);        
         System.out.print(" es igual a ");
