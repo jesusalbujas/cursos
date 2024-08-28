@@ -1,6 +1,6 @@
 package org.cursos;
 
-public class Print {
+public class Suma {
 	public static void main(String[] args) {
 		int a = 3;
 		int b = 2;
