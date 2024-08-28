@@ -1,6 +1,6 @@
 package org.cursos;
-/* El programa debe mostrar «2 más 3 es igual a 5» en la pantalla. */
-public class Solution {
+
+public class Print {
 	public static void main(String[] args) {
 		int a = 3;
 		int b = 2;
