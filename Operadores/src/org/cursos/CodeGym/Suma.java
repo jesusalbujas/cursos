@@ -1,4 +1,4 @@
-package org.cursos;
+package org.cursos.CodeGym;
 
 public class Suma {
 	public static void main(String[] args) {

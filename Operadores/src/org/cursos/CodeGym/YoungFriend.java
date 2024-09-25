@@ -1,4 +1,4 @@
-package org.cursos;
+package org.cursos.CodeGym;
 
 /*
 Actualmente estamos en el año 3126. Mi amigo nació hace 8 años.

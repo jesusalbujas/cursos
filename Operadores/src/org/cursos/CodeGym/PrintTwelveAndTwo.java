@@ -1,4 +1,4 @@
-package org.cursos;
+package org.cursos.CodeGym;
 
 /*
 Quita el comentario de una línea para que el programa muestre los números 12 y 2 (primero 12 y luego 2).
