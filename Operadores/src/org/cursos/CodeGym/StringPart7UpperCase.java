@@ -17,7 +17,7 @@ public class StringPart7UpperCase {
 
         //escribe aquí tu código
         System.out.println(usa.toUpperCase());
-        System.out.println(("Winnie the Pooh").toUpperCase());
+        System.out.println("Winnie the Pooh".toUpperCase());
         System.out.println((caps + "saben que lo digo en serio").toUpperCase());
     }
 }
